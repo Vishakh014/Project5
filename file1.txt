@@ -2,3 +2,4 @@ Hello Sachin
 This is my new file1.txt
 
 This is second change
+This is a new line added in feature1 branch.
